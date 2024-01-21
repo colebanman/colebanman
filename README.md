@@ -1,4 +1,10 @@
-### Hi there 👋
+###👋
+
+My name is cole -- 16 yr old student in Bay Area. I currently own Flow Monitors which provides instore information related to sought-after sneakers to help clients profit. 
+
+I'm currently interested and working in the fields of web reverse engineering, automation, and offensive bot mitigation.
+
+You can contact me at colebanman@gmail.com.
 
 <!--
 **colebanman/colebanman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

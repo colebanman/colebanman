@@ -1,4 +1,4 @@
-#👋
+### Hi👋
 
 My name is cole -- 16 yr old student in Bay Area. I currently own Flow Monitors which provides instore information related to sought-after sneakers to help clients profit. 
 

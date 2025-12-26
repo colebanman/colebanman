@@ -4,7 +4,7 @@ My name is Cole -- 18 yr old student in Bay Area. I currently own Flow Monitors 
 
 I'm currently interested and working in the fields of web reverse engineering, automation, and offensive bot mitigation
 
-You can contact me at banman.c@northeastern.edu
+You can contact me at colebanman@gmail.com
 
 <!--
 **colebanman/colebanman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
